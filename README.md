@@ -1,4 +1,4 @@
-# Printable_Characters_Counting_Server_Assignment
+# Printable Characters Counting Server Assignment
 
 implement a toy client/server architecture:
 a printable characters counting (PCC) server.
